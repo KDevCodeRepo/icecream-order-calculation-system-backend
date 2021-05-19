@@ -13,7 +13,7 @@ Please refer the Readme.md file of the master branch for a detailed description 
   3. The IDE will update the project automatically adding the required files and the dependencies derived in the pom.xml. 
   4. Once done, create a database in your database management system and configure the database related properties in your application.properties file available in the Spring Boot project's resources **(src/main/resources)** folder. 
   5. Now run the project as a Spring Boot App using your IDE.
-  6. You should be able to seamlessly call the API endpoints via Postman using the Postman requests provided in the **IceCool_Ice_Cream_Order_Calculation_REST_API.postman_collection** Postman collection file available in the "main" branch of the GitHub repository. 
+  6. You should be able to seamlessly call the API endpoints via Postman using the Postman requests provided in the **IceCool_Ice_Cream_Order_Calculation_REST_API.postman_collection.json** Postman collection file available in the "main" branch of the GitHub repository. 
 
 ## Important notes
 
