@@ -19,4 +19,4 @@ Please refer the Readme.md file of the master branch for a detailed description 
 
   1. The database tables will be automatically created in your database management system as soon as the project is run (as configured in the application.properties file). 
   2. The database tables will be auto populated with the Base flavors, Condiments, and Container data configured in the **manage-data.json** file availabe in the project's resources folder. 
-  3. If the reviewer needs to change any data in the database, the reviewer can change the data in the **manage-data.json** file which will be updated in the database tables each time the project is run. 
+  3. If the reviewer needs to change any data in the database, the data can be changed in the **manage-data.json** file, and the application is required to be re-run in order to commit these changes to the database. 
