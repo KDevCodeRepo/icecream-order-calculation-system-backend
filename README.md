@@ -1,13 +1,13 @@
 # icecream-order-calculation-system-backend
 This is a REST API developed for the IceCool ice cream brand. The API will display the products of the IceCool ice cream brand and also generate the total price of an order once a customer places an order. 
 
-For the purpose of this assignment, I will use the "main" branch to maintain the general files of the project and the "master" branch to maintain the actual code base. 
+For the purpose of this assignment, I will use the **main** branch to maintain the general files and information related to the project and the **master** branch to maintain the actual code base. 
 
 Please refer the Readme.md file of the master branch for a detailed description of the developed API. 
 
 ## Directions to test the REST API.
 
-  1. Switch the GitHub branch to "master".
+  1. Switch the GitHub branch to **master**.
   2. Clone the **icecream-order-calculation-system-backend** to the current directory by typing **git clone -b master https://github.com/KDevCodeRepo/icecream-order-calculation-system-backend.git** in your **Git Bash** command line or download the files as a zip folder. 
         i. If downloaded as a zip folder, extract the zip folder and open the folder within the extracted folder from your favorite IDE (or copy the folder inside the extracted folder into your IDE workspace and open the copied folder from your IDE).  
   3. The IDE will update the project automatically adding the required files and the dependencies derived in the pom.xml. 
