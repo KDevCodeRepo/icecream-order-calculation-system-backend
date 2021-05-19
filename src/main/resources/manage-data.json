@@ -1,0 +1,135 @@
+[
+        {
+        	"_class": "com.icecool.ordercalculation.model.BaseFlavor",
+            "id": 1,
+            "name": "Raspberry Slushy",
+            "description": "Raspberry Slushy",
+            "price": "200.00",
+            "servingSize": "One scoop"
+        },
+        {
+        	"_class": "com.icecool.ordercalculation.model.BaseFlavor",
+            "id": 2,
+            "name": "Coco Coffee",
+            "description": "Coco Coffee",
+            "price": "350.00",
+            "servingSize": "One scoop"
+        },
+        {
+        	"_class": "com.icecool.ordercalculation.model.BaseFlavor",
+            "id": 3,
+            "name": "Nutty Fruit",
+            "description": "Nutty Fruit",
+            "price": "150.00",
+            "servingSize": "One scoop"
+        },
+        {
+        	"_class": "com.icecool.ordercalculation.model.BaseFlavor",
+            "id": 4,
+            "name": "Pistachio Delight",
+            "description": "Pistachio Delight",
+            "price": "350.00",
+            "servingSize": "One scoop"
+        },
+        
+        {
+        	"_class": "com.icecool.ordercalculation.model.Condiment",
+            "id": 1,
+            "name": "Sprinkles",
+            "description": "Sprinkles",
+            "price": "50.00",
+            "servingSize": "N/A"
+        },
+        {
+        	"_class": "com.icecool.ordercalculation.model.Condiment",
+            "id": 2,
+            "name": "Toasted Marshmallow",
+            "description": "Toasted Marshmallow",
+            "price": "100.00",
+            "servingSize": "N/A"
+        },
+        {
+        	"_class": "com.icecool.ordercalculation.model.Condiment",
+            "id": 3,
+            "name": "Toasted Almond Flakes",
+            "description": "Toasted Almond Flakes",
+            "price": "150.00",
+            "servingSize": "N/A"
+        },
+        {
+			"_class": "com.icecool.ordercalculation.model.Condiment",        
+            "id": 4,
+            "name": "Dash of Peanut butter",
+            "description": "Dash of Peanut butter",
+            "price": "50.00",
+            "servingSize": "One tablespoon"
+        },
+        {
+        	"_class": "com.icecool.ordercalculation.model.Condiment",
+            "id": 5,
+            "name": "Oreo Crumbles",
+            "description": "Oreo Crumbles",
+            "price": "60.00",
+            "servingSize": "One Oreo Cookie"
+        },
+        {
+        	"_class": "com.icecool.ordercalculation.model.Condiment",
+            "id": 6,
+            "name": "Dried Apples",
+            "description": "Dried Apples",
+            "price": "25.00",
+            "servingSize": "N/A"
+        },
+        {
+        	"_class": "com.icecool.ordercalculation.model.Condiment",
+            "id": 7,
+            "name": "Dried Mango",
+            "description": "Dried Mango",
+            "price": "30.00",
+            "servingSize": "N/A"
+        },
+        {
+        	"_class": "com.icecool.ordercalculation.model.Condiment",
+            "id": 8,
+            "name": "Dried Apricot",
+            "description": "Dried Apricot",
+            "price": "40.00",
+            "servingSize": "N/A"
+        },
+        {
+        	"_class": "com.icecool.ordercalculation.model.Condiment",
+            "id": 9,
+            "name": "Dried Blueberry",
+            "description": "Dried Blueberry",
+            "price": "45.00",
+            "servingSize": "N/A"
+        },
+        {
+        	"_class": "com.icecool.ordercalculation.model.Container",
+            "id": 1,
+            "name": "Wafer cone",
+            "description": "Wafer cone",
+            "price": "20.00"
+        },
+        {
+        	"_class": "com.icecool.ordercalculation.model.Container",
+            "id": 2,
+            "name": "Waffle cone",
+            "description": "Waffle cone",
+            "price": "40.00"
+        },
+        {
+        	"_class": "com.icecool.ordercalculation.model.Container",
+            "id": 3,
+            "name": "Waffle bowl",
+            "description": "Waffle bowl",
+            "price": "50.00"
+        },
+        {
+        	"_class": "com.icecool.ordercalculation.model.Container",
+            "id": 4,
+            "name": "Ice cream sandwich wafers",
+            "description": "Ice cream sandwich wafers",
+            "price": "80.00"
+        }
+]
